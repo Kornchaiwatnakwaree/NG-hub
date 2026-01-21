@@ -1,0 +1,39 @@
+.textlabel {
+  max-width: 80%;
+  margin: 50px auto;
+  padding: 20px;
+  border: 2px solid #e3e3e34b;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  background-color: #000;
+  border-radius: 12px;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+.box {
+  padding: 20px;
+  text-align: start;
+  background-color: #222;
+  border-radius: 12px;
+
+  p {
+    word-break: break-all;
+    overflow-wrap: break-word;
+    white-space: pre-wrap;
+  }
+}
+.BTN {
+  cursor: pointer;
+  margin: 20px auto;
+  border: none;
+  background-color: #fff;
+  padding: 12px 70px;
+  border-radius: 12px;
+  font-size: 16px;
+  transition: 1s ease;
+}
+.BTN:hover {
+  scale: 1.5;
+}

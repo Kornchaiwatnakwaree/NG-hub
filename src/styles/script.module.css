@@ -1,0 +1,216 @@
+
+.MAP {
+    display: grid;
+    grid-template-columns: 1fr 2fr 3fr 5fr 6fr ;
+}
+
+.Murder { 
+    border: 2px solid;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px;
+     box-shadow:
+    0 10px 30px rgba(0, 255, 120, 0.25),
+    0 0 60px rgba(0, 255, 120, 0.15);
+    width: 250px;
+    height: 390px;
+    background-color: rgba(255, 255, 255, 0.74);
+}
+
+.Murder img {
+   width:190px;
+   max-width: 100%;
+   border-radius: 20px;
+}
+
+.Murder p img {
+    max-width: 100%;
+    width: 45px;
+}
+
+.Murder p  {
+    font-size: 30px;    
+    margin-top: 10px;
+}
+
+.Murder section img {
+    width: 50px;
+}
+
+
+.Evade { 
+    border: 2px solid;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px;
+     box-shadow:
+    0 10px 30px rgba(0, 255, 120, 0.25),
+    0 0 60px rgba(0, 255, 120, 0.15);
+    width: 250px;
+    height: 390px;
+    background-color: rgba(255, 255, 255, 0.74);
+}
+
+.Evade img {
+   width:190px;
+   max-width: 100%;
+   border-radius: 20px;
+}
+
+.Evade p img {
+    max-width: 100%;
+    width: 45px;
+}
+
+.Evade p  {
+    font-size: 30px;    
+    margin-top: 10px;
+}
+
+.Evade section img {
+    width: 50px;
+}
+
+
+
+.Steal { 
+    border: 2px solid;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px;
+     box-shadow:
+    0 10px 30px rgba(0, 255, 120, 0.25),
+    0 0 60px rgba(0, 255, 120, 0.15);
+    width: 250px;
+    height: 390px;
+    background-color: rgba(255, 255, 255, 0.74);
+}
+
+.Steal img {
+   width:190px;
+   max-width: 100%;
+   border-radius: 20px;
+}
+
+.Steal p img {
+    max-width: 100%;
+    width: 45px;
+}
+
+.Steal p  {
+    font-size: 30px;    
+    margin-top: 10px;
+}
+
+.Steal section img {
+    width: 50px;
+}
+
+
+.day { 
+    border: 2px solid;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px;
+     box-shadow:
+    0 10px 30px rgba(0, 255, 120, 0.25),
+    0 0 60px rgba(0, 255, 120, 0.15);
+    width: 250px;
+    height: 390px;
+    background-color: rgba(255, 255, 255, 0.74);
+}
+
+.day img {
+   width:190px;
+   max-width: 100%;
+   border-radius: 20px;
+}
+
+.day p img {
+    max-width: 100%;
+    width: 45px;
+}
+
+.day p  {
+    font-size: 30px;    
+    margin-top: 10px;
+}
+
+.day section img {
+    width: 50px;
+}
+
+
+.fish { 
+    border: 2px solid;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px;
+     box-shadow:
+    0 10px 30px rgba(0, 255, 120, 0.25),
+    0 0 60px rgba(0, 255, 120, 0.15);
+    width: 250px;
+    height: 390px;
+    background-color: rgba(255, 255, 255, 0.74);
+}
+
+.fish img {
+   width:190px;
+   max-width: 100%;
+   border-radius: 20px;
+}
+
+.fish p img {
+    max-width: 100%;
+    width: 45px;
+}
+
+.fish p  {
+    font-size: 30px;    
+    margin-top: 10px;
+}
+
+.fish section img {
+    width: 50px;
+}
+
+
+.violent { 
+    border: 2px solid;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px;
+     box-shadow:
+    0 10px 30px rgba(0, 255, 120, 0.25),
+    0 0 60px rgba(0, 255, 120, 0.15);
+    width: 250px;
+    height: 390px;
+    background-color: rgba(255, 255, 255, 0.74);
+}
+
+.violent img {
+   width:190px;
+   max-width: 100%;
+   border-radius: 20px;
+}
+
+.violent p img {
+    max-width: 100%;
+    width: 45px;
+}
+
+.violent p  {
+    font-size: 30px;    
+    margin-top: 10px;
+}
+
+.violent section img {
+    width: 50px;
+}
+
+@media (max-width:768px) {
+  .MAP {
+    grid-template-columns: 1fr  ;
+    display: grid;
+  }
+}
