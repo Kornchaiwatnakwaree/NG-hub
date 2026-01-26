@@ -12,7 +12,7 @@ export default function Navbar(){
             <Link href="/">HOME</Link>
             <Link href="/Getscript">GETSCRIPT</Link>
             <Link href="/Script">STATUS</Link>
-            <Link href="https://discord.com/invite/99q3bDGGPN">CONTACT</Link>
+            <Link href="https://discord.gg/yvDrvv9y2a">CONTACT</Link>
           </ul>
        </div>   
         </>
